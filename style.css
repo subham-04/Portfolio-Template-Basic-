@@ -1,0 +1,130 @@
+body{
+    margin:0px;
+    text-align: center;
+    background-color: #F8F8F8;
+    font-family: 'Nunito', sans-serif;
+    color:#40514E;
+}
+.contact-message{
+    width: 50%;
+    margin: 40px auto 60px auto;
+ 
+}
+.cr{
+    color: #7EB5A6;
+    font-size: 0.9rem;
+}
+
+h2{
+    color: #297F87;
+    padding-bottom: 10px;
+}
+h3{
+    color: #44bb99;
+}
+.dp{
+    border-radius: 50%;
+}
+.code-img{
+    border-radius: 50%;
+    height: 11rem;
+    width: 11rem;
+    float: left;
+    margin-right: 3rem;
+}
+.code-img1{
+    border-radius: 50%;
+    height: 11rem;
+    width: 11rem;
+    float: right;
+    margin-left: 3rem;
+}
+#skill-h{
+    text-align: right;
+}
+.skill-row{
+    width: 50%;
+    text-align: justify;
+    margin: 100px auto 100px auto;
+}
+p{
+    line-height: 1.5;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    height: 0px;
+    background-color: none;
+    border-width: 4px;
+    color: #00A19D;
+}
+.pro{
+    color: #E05D5D;
+}
+.top{
+    background-color: #F0FFF3;
+    margin: 0px;
+    border: none;
+    position: relative;
+}
+.sub-title{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 1.2rem;
+    color:#FFB344;
+}
+.top-cloud{
+   position: absolute;
+    right:200px;
+    top:60px;
+}
+.title{
+    width:250px;
+    margin: 0 auto;
+    padding-top: 100px;
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    color: #11CBD7;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+}
+.middle-container{
+    margin: 100px 0px;
+}
+.btn {
+    
+    border-radius: 6PX;
+   background-color: #FFB344;
+   cursor: pointer;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+    
+  }
+  
+  .btn:hover {
+    clear: inherit;
+    background-image: linear-gradient(#FFB344,#FA4659);
+    transition: all 2s background-image;
+  
+    
+  }
+  .bottom-container{
+      background-color: #F0FFF3;
+      padding: 1%;
+  }
+a{
+    color: #00A19D;
+    margin: 0.5% 0.2%;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    filter: brightness(0.3);
+
+}
